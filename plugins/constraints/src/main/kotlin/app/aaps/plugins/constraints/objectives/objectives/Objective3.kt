@@ -30,6 +30,6 @@ class Objective3 @Inject constructor(injector: HasAndroidInjector) : Objective(i
 
     companion object {
 
-        private const val MANUAL_ENACTS_NEEDED = 20
+        private const val MANUAL_ENACTS_NEEDED = 0
     }
 }
